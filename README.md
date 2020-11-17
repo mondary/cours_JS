@@ -1,4 +1,4 @@
-#JS_JSduzero-
+JS_JSduzero
 
 Cours de JS  de Javascript du Zero
 <br> Le site est excellent pour se lancer : https://www.javascriptdezero.com/
